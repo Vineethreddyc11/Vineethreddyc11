@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **Computer Vision, Natural Language Processing**
 
-- 📫 How to reach me **vineethreddyc114@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
